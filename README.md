@@ -8,3 +8,12 @@ MQTT는 머신 대 머신 통신에 사용되는 표준 기반 메시징 프로�
 ## 실행 프로그램 화면
 ![image](https://github.com/HYEJJJJJ/mqtt/assets/122515375/b3f52e30-b3ed-4d8c-b64a-832353e73b86)
 
+### 기능 구현
+1. 프로그램 기본 UI 
+2. 연결/해제/구독/발행
+3. MQTT Form1 구현
+- 버튼 클릭 시 메시지 출력
+- LayoutContoller 사용하여 폼 구현
+4. MQTT FrmMain 구현하기
+- LayoutContoller 사용하여 폼 구현
+ - MQTT클라이언트 연결
